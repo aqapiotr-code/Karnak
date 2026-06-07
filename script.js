@@ -319,7 +319,7 @@ slider.innerHTML += `
 <div class="stop-card">
 
 <img
-src="images/${stop.image}"
+src="${stop.image}"
 alt="${stop.title.en}">
 
 <div class="stop-content">
